@@ -7,4 +7,4 @@ RUN apt-get update \
   && apt-get -y install nodejs
 
 # Install firebase tools
-RUN npm install -g firebase-tools
+RUN npm install -g firebase-tools@8.10.0
