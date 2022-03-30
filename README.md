@@ -3,7 +3,7 @@
 Docker image that can be used for build/release pipelines of Google Cloud Platform. The image is built on top of the base [`google/cloud-sdk:latest`](https://hub.docker.com/r/google/cloud-sdk/) image and contains the following:
 
 - Everything from [`google/cloud-sdk:latest`](https://hub.docker.com/r/google/cloud-sdk/)
-- Node.js v10 installed and configured
+- Node.js v16 installed and configured
 - [Firebase CLI](https://firebase.google.com/docs/cli)
 
 # Usage
