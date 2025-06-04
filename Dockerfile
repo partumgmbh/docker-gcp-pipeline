@@ -10,5 +10,5 @@ RUN echo "nodejs version $(node --version)"
 
 # Install firebase tools
 FROM nodejs AS firebase
-RUN npm install -g firebase-tools@13.7.5 --unsafe
+RUN npm install -g firebase-tools@14.5.1 --unsafe
 RUN echo "firebase version $(firebase --version)"

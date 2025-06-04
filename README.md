@@ -4,7 +4,7 @@ Docker image that can be used for build/release pipelines of Google Cloud Platfo
 
 - Everything from [`google/cloud-sdk:latest`](https://hub.docker.com/r/google/cloud-sdk/)
 - [Node.js](https://nodejs.org/en) v20 installed and configured
-- [Firebase CLI](https://firebase.google.com/docs/cli) v13.7.5
+- [Firebase CLI](https://firebase.google.com/docs/cli) v14.5.1
 
 # Usage
 
